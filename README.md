@@ -22,4 +22,16 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 vue init webpack demo01(项目名) 
 ```
 
+4.进入当前项目并对项目的依赖进行初始化
+```
+cd demo01
+npm install
+
+剩下的东西就根据自己的需求进行yes 和 no的选择
+```
+
+5.运行测试的首页
+```
+npm run dev
+```
 
